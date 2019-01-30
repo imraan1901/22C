@@ -8,6 +8,6 @@ and outputs the Cholesky Decomposition of that matrix into a CSV file
 ./main input.csv output.csv
 
 ## Reference
-Fundamentals of Matrix Computations
-Third Edition
+Fundamentals of Matrix Computations,
+Third Edition,
 David S. Watkins
