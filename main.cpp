@@ -1,3 +1,10 @@
+/*
+ * Filename: main.cpp
+ * Author: Imraan Iqbal
+ * Date: 3/29/19
+ * Description: This file runs the Cholesky program.
+ */
+
 #include "Cholesky.hpp"
 #include <iostream>
 #include <fstream>

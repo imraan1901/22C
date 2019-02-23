@@ -1,3 +1,11 @@
+# 
+# Filename: Makefile
+# Author: Imraan Iqbal
+# Date: 3/29/19
+# Description: A simple Makefile to build the Cholesky function
+#
+
+
 # COMPILER OPTIONS
 #================================================================================
 CC=g++ 
