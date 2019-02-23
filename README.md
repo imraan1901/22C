@@ -6,10 +6,10 @@ and outputs the Cholesky Decomposition of those matrices into a CSV file.
  All matrices are assumed square for this Algorithm.
  
 ## Uses
-* Linear least squares
-* Non-linear optimization
-* Monte Carlo simulation
-* Kalman filters
+* Linear Least Squares
+* Non-Linear Optimization
+* Monte Carlo Simulation
+* Kalman Filters
 
 ## Time Complexity
 O(n^3)
