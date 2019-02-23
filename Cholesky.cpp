@@ -168,13 +168,13 @@ void Cholesky::printMatrix(ofstream& outFile) {
     for(int i = 0; i < size; i++) {
  
         // Columns
-        for(int j = 0 ; j < size; j++) {
+        for(int j = 0; j < size; j++) {
             
             // Fill the upper triangular portion of the matrix with values
             if(i <= j) {
 
                     // Put a comma after each value
-                    if(i != size - 1) {
+                    if(j != size - 1) {
                         outFile << (*matrix)[i][j] << "," ;
                     }
 
