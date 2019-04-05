@@ -22,7 +22,7 @@ The purpose of this decomposition is to compute the equation Ax = b to find x
 ## Decomposition Time Complexity
 O(n<sup>3</sup>)
 
-## How to use
+## How to use in Linux Terminal
 ./main inputFile.csv outputFile.csv
 
 ## Reference
