@@ -4,7 +4,7 @@
 This is a program that reads in matrices from a Microsoft CSV file 
 and outputs the Cholesky Decomposition of those matrices into a CSV file.
  If a matrix does not fulfill
- the properties of a positive definite matrix a -1 will be placed in the first
+ the properties of a positive definite matrix a "-1" will be placed in the first
  row and column of the corresponding "decomposed" matrix.
  All matrices are assumed square for this algorithm.
 
