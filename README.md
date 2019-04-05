@@ -9,7 +9,7 @@ and outputs the Cholesky Decomposition of those matrices into a CSV file.
  All matrices are assumed square for this algorithm.
 
 The purpose of this decomposition is to compute the equation Ax = b to find x
- in O(n^2) instead of O(n^3) time. To put that into persepctive this decrease in
+ in O(n^2) instead of O(n^3) time. To put that into perspective this decrease in
  computation time for an input matrix of size 1000 by 1000 would take 12 days 
  instead of 32 years.
  
