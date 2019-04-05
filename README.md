@@ -19,7 +19,7 @@ The purpose of this decomposition is to compute the equation Ax = b to find x
 * Monte Carlo Simulation
 * Kalman Filters
 
-## Time Complexity
+## Decomposition Time Complexity
 O(n^3)
 
 ## How to use
