@@ -6,7 +6,7 @@ and outputs the Cholesky Decomposition of those matrices into a CSV file.
  If a matrix does not fulfill
  the properties of a positive definite matrix a "-1" will be placed in the first
  row and column of the corresponding "decomposed" matrix.
- All matrices are assumed square for this algorithm.
+ All matrices are assumed square, n by n, for this algorithm.
 
 The purpose of this decomposition is to compute the equation Ax = b to find x
  in O(n<sup>2</sup>) instead of O(n<sup>3</sup>) time. To put that into perspective this decrease in
