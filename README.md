@@ -1,4 +1,4 @@
-# Cholesky Matrix Decomposition
+# Cholesky Matrix Decomposition Algorithm
 
 ## Description
 This is a program that reads in matrices from a Microsoft CSV file 
