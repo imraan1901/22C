@@ -23,7 +23,9 @@ The purpose of this decomposition is to compute the equation Ax = b to find x
 O(n<sup>3</sup>)
 
 ## How to use in Linux Terminal
-./main inputFile.csv outputFile.csv
+Make sure your [inputFile].csv is in the main folder.
+
+./main [inputFile].csv [outputFile].csv
 
 ## Reference
 Fundamentals of Matrix Computations,
