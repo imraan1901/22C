@@ -23,7 +23,8 @@ The purpose of this decomposition is to compute the equation Ax = b to find x
 O(n<sup>3</sup>)
 
 ## How to use in Linux Terminal
-Make sure your [inputFile].csv is in the main folder.
+Make sure your [inputFile].csv is in the 
+same folder as main.
 
 ./main [inputFile].csv [outputFile].csv
 
