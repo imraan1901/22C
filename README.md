@@ -31,4 +31,4 @@ same folder as main.
 ## Reference
 Fundamentals of Matrix Computations,
 Third Edition,
-David S. Watkins
+by David S. Watkins
